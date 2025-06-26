@@ -20,7 +20,7 @@ Help investors and stock market enthusiasts make **smarter, more informed tradin
 ## 🛠️ How It Works
 
 ### 1. **Data Collection**
-- Collects data from the **National Stock Exchange (NSE)** at second-level intervals.
+- Collects data from the **National Stock Exchange (NSE) and other historical data extraction sites** at second-level intervals.
 - Extracts financial indicators such as:
   - Momentum
   - LFV (Liquidity, Flow, Volume)
@@ -54,9 +54,9 @@ Help investors and stock market enthusiasts make **smarter, more informed tradin
 ---
 
 ## 📊 Target Audience
-- Beginner to experienced investors
-- Stock market analysts
-- Fintech innovators
+- Students
+- Investors
+- Stock market enthusiasts
 
 ---
 
@@ -72,13 +72,3 @@ Help investors and stock market enthusiasts make **smarter, more informed tradin
 - Practical implementation of trading principles
 
 ---
-
-## 📌 Future Scope
-- Incorporate sentiment analysis from social media
-- Extend to global stock exchanges
-- Develop a user-friendly dashboard interface
-
----
-
-## 📫 Contact
-If you’re interested in collaborating or giving feedback, feel free to reach out to
