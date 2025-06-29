@@ -23,9 +23,9 @@ Help investors and stock market enthusiasts make **smarter, more informed tradin
   It's used to predict short-term mid-price movements using deep learning models:
   -Data is recorded every 10 order book events (not time-based), ensuring consistent market activity pacing.
   -Contains 144 features
-    -spread:Ask1 - Bid1 (price spread)
-    -price_imbalance:(Sum of bid volumes) / (Sum of ask volumes)
-    ...
+  -spread:Ask1 - Bid1 (price spread)
+  -price_imbalance:(Sum of bid volumes) / (Sum of ask volumes)
+  ...
 
 ### 2. **Dual Path Model**
 - Combines **LSTM** for short-term trend analysis and **Transformer** for long-term predictions.
