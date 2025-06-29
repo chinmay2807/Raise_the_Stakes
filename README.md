@@ -8,8 +8,7 @@
 ---
 
 ## 🚨 Problem Statement
-Investing in the stock market is risky due to its unpredictable nature. Our project leverages Machine Learning to assist users in making better stock decisions by analyzing the last 10 minutes of market data.
-
+Investing in the stock market is risky due to its unpredictable nature. Our project leverages Machine Learning to assist users in making better stock decisions by analyzing the mid prices of trades to predict the movement of the commodity.
 ---
 
 ## 🎯 Goal
