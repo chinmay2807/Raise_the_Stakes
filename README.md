@@ -20,11 +20,11 @@ Help investors and stock market enthusiasts make **smarter, more informed tradin
 
 ### 1. **Data Collection**
 - The FI-2010 dataset is a benchmark financial dataset containing high-frequency limit order book (LOB) data from the Helsinki Stock Exchange for 5 Finnish stocks over 10 days in 2010.
-  It's used to predict short-term mid-price movements using deep learning models:
--Data is recorded every 10 order book events (not time-based), ensuring consistent market activity pacing.
--Contains 144 features
--spread:Ask1 - Bid1 (price spread)
--price_imbalance:(Sum of bid volumes) / (Sum of ask volumes)
+- It's used to predict short-term mid-price movements using deep learning models:
+  - Data is recorded every 10 order book events (not time-based), ensuring consistent market activity pacing.
+  - Contains 144 features
+  - spread:Ask1 - Bid1 (price spread)
+  - price_imbalance:(Sum of bid volumes) / (Sum of ask volumes)
 
 
 ### 2. **Dual Path Model**
